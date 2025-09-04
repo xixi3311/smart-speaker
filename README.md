@@ -1,0 +1,3 @@
+main是音箱代码 运行在开发板
+musicserver是服务器代码 运行在云服务器
+musicAPP是APP代码 使用QT运行
